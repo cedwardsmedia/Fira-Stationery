@@ -46,3 +46,6 @@ Author: Corey Edwards ([@cedwardsmedia](https://www.twitter.com/cedwardsmedia))
 Feedback: @ebrian
 
 ## License
+_Fira Stationery_ is licensed under the **MIT License**. See LICENSE.md for more.
+
+Attribution in your email is appreciated, but not required. If you choose to attribute me, please include a link to my website: www.cedwardsmedia.com.
