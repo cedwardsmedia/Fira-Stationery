@@ -7,7 +7,9 @@ _Fira Stationery_ is a simple stationery I designed for my own use for both my o
 ## Installation
 For **basic HTML**
 
-Simply edit the message, salutation, and signature as you need.
+Simply edit (or remove) the logo, message, salutation, and signature as you need.
+
+Note: Logo is set as the background of `div.inner` on line 25
 
 For **Apple Mail**
 
