@@ -1,5 +1,5 @@
 # Fira Stationery
-Foo
+Fira is a simple stationery I designed for my own use for both my outgoing email from Apple Mail as well as my Zendesk account. My goal was to incorporate various design concepts used by Apple, Google, and Mozilla to create a simple, clean, unobtrusive template that put the content in the spotlight rather than itself.
 
 ### Hey! Read me!
 As I only use pure HTML and Apple Mail for email, this stationery is provided in original HTML form as well as an Apple Mail Stationery package. If anyone is interested in contributing a version for Outlook, Thunderbird, or other email clients, you are welcome to do so.
