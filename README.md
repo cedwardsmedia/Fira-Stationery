@@ -16,13 +16,17 @@ I haven't touched Outlook since the 90s and I refuse to use it now. If you use O
 
 Thunderbird, on the other hand, may get a version included for it in a future update, although I haven't set a timeframe. I always loved Thunderbird until I migrated to a predominantly Apple environment, so I'm sure I can give it the special treatment for old time's sake.
 
+For **other email clients**
+
+As with Outlook, Thunderbird, and other aspects of this project, you are more than welcome to contribute a new version of this stationery for any other email client. I simply haven't done it because I only use Apple Mail and Zendesk.
+
 ## Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request ^^,
 
 ## History
 A long time ago in a galaxy far, far away....
@@ -34,6 +38,7 @@ A long time ago in a galaxy far, far away....
 1. Create version for **Mozilla Thunderbird**.
 2. Find someone to create version for **Microsoft Outlook**.
 3. Don't forget to be **awesome**.
+4. Solve world hunger (and my own).
 
 ## Credits
 Author: Corey Edwards ([@cedwardsmedia](https://www.twitter.com/cedwardsmedia))
@@ -41,24 +46,3 @@ Author: Corey Edwards ([@cedwardsmedia](https://www.twitter.com/cedwardsmedia))
 Feedback: @ebrian
 
 ## License
-The MIT License (MIT)
-
-Copyright © 2015 Corey Edwards
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
