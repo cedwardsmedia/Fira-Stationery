@@ -1,4 +1,7 @@
 # Fira Stationery
+
+![alt text](https://cdn.cedwardsmedia.com/images/fire-screenshot.png "Fira Stationery Screenshot")
+
 _Fira Stationery_ is a simple stationery I designed for my own use for both my outgoing email from Apple Mail as well as my Zendesk account. My goal was to incorporate various design concepts used by Apple, Google, and Mozilla to create a simple, clean, unobtrusive template that put the content in the spotlight rather than itself.
 
 ## Installation
