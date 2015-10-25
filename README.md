@@ -1,6 +1,9 @@
 # Fira Stationery
+[![Source](https://img.shields.io/badge/source-cedwardsmedia/fira--stationery-blue.svg?style=flat-square "Source")](https://www.github.com/cedwardsmedia/fira-stationery)
+![Version](https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat-square)
+[![License](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square "License")](./LICENSE)
 
-![alt text](https://cdn.cedwardsmedia.com/images/fira-stationery/screenshot.png "Fira Stationery Screenshot")
+![Fira Stationery](https://cdn.cedwardsmedia.com/images/fira-stationery/screenshot.png "Fira Stationery Screenshot")
 
 _Fira Stationery_ is a simple stationery I designed for my own use for both my outgoing email from Apple Mail as well as my Zendesk account. My goal was to incorporate various design concepts used by Apple, Google, and Mozilla to create a simple, clean, unobtrusive template that put the content in the spotlight rather than itself.
 
