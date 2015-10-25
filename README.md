@@ -39,7 +39,7 @@ As with Outlook, Thunderbird, and other aspects of this project, you are more th
 ## History
 A long time ago in a galaxy far, far away....
 
- - **1.0** [_Oct 20, 2015_]: Initial release including Apple Mail stationery and minified HTML
+ - ![Version](https://img.shields.io/badge/v-1.0-brightgreen.svg?style=flat-square) [_Oct 20, 2015_]: Initial release including Apple Mail stationery and minified HTML
 
 ## To-do:
 
@@ -51,7 +51,7 @@ A long time ago in a galaxy far, far away....
 ## Credits
 Author: Corey Edwards ([@cedwardsmedia](https://www.twitter.com/cedwardsmedia))
 
-Feedback: @ebrian
+Feedback: Brian Seymour ([@eBrian](http://bri.io))
 
 ## License
 _Fira Stationery_ is licensed under the **MIT License**. See LICENSE for more.
